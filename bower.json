@@ -1,0 +1,19 @@
+{
+  "name": "jquery-bootstrap-newsbox",
+  "version": "1.0.1",
+  "main": "dist/jquery-bootstrap-newsbox.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "package.json"
+  ],
+  "devDependencies": {
+    "jquery": "1.10.2"
+  },
+  "keywords": [
+    "jquery",
+    "javascript",
+    "bootstrap",
+    "newsbox"
+  ]
+}
