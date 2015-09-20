@@ -16,14 +16,14 @@
     "bootstrap",
     "newsbox"
   ],
-  "homepage": "https://github.com/gagi270683/jQuery-bootstrap",
+  "homepage": "https://github.com/Ngorror/jquery-bootstrap-newsbox",
   "_release": "1.0.1",
   "_resolution": {
     "type": "version",
     "tag": "1.0.1",
-    "commit": "1472290917f17af05e98007136096784f9051fab"
+    "commit": "fb5b731d6ccecac4f3a29d0de74a1c6ed456c7b7"
   },
-  "_source": "git://github.com/gagi270683/jQuery-bootstrap",
+  "_source": "git://github.com/Ngorror/jquery-bootstrap-newsbox",
   "_target": "=1.0.1",
   "_originalSource": "jquery-bootstrap-newsbox"
 }
